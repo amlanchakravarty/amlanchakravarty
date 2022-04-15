@@ -2,7 +2,7 @@
 
 👀 I’m interested in Data Analysis, Machine Learning 
 
-🌱 I’m currently learning deep learning NLP transformers 
+🌱 I’m currently learning transformers for NLP
 
 💞️ I’m looking to collaborate on Growth Fullstack
 
